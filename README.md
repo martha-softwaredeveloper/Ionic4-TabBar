@@ -36,9 +36,9 @@ Create ionic project with tabs and pages
 6. Add private router: Router as param in constructor --> code lines: 11
 7. Add function --> code lines: 16 - 18
 
-## Authors
+## Author
 
-* **Simmon Grimm**
+Simmon Grimm
 
 
 ## License
