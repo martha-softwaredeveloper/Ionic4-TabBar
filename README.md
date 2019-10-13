@@ -1,6 +1,6 @@
 # Ionic 4 - Tab Bar
 
-i followed the tutorial of Simmon Grimm: [How to Add A Tab Bar to Your Ionic 4 App](https://youtu.be/_BnCRIZ1nDk)
+I followed the tutorial of Simmon Grimm: [How to Add A Tab Bar to Your Ionic 4 App](https://youtu.be/_BnCRIZ1nDk)
 
 <img src="https://github.com/martha-softwaredeveloper/Ionic4-TabBar/blob/master/src/assets/ionic4-tab-bar_screenshot.png" width="500"/>
 
@@ -40,9 +40,3 @@ Create ionic project with tabs and pages
 ## Author
 
 Simmon Grimm
-
-
-## License
-
-This project is licensed under the MIT License.
-
